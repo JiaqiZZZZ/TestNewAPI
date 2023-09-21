@@ -1,0 +1,12 @@
+server:
+  port: 1024
+  servlet:
+    context-path: /tsc/api
+springdoc:
+  show-actuator: true
+amazon:
+  dynamodb:
+    endpoint: http://dynamodb.us-east-2.amazonaws.com
+  aws:
+    accesskey: AKIA5K6HSESLT32CRBUC
+    secretkey: ikigai-team

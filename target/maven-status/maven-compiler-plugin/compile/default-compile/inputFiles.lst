@@ -1,0 +1,11 @@
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/controller/BeneficiaryController.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/repository/ParticipantRepository.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/config/DynamoDBConfig.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/service/ParticipantService.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/TscApiApplication.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/entity/Foo.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/controller/NavigatorController.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/repository/FooRepository.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/entity/Participant.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/controller/OrganizationController.java
+/Users/wjh/hackathon/tsc-api/src/main/java/com/citi/techfest/ikigai/tsc/entity/SocialService.java
